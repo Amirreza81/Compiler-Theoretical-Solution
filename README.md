@@ -35,5 +35,5 @@
 
 ## References
 
-For reading lecture notes you can see [here](https://github.com/sut-compiler/Materials/tree/main/Slides) <br />
-For more details and questions see this [link](https://github.com/sut-compiler/Materials/tree/main)
+For reading lecture notes you can see [here](https://github.com/sut-compiler/Materials/tree/main/Slides).<br />
+For more details and questions see this [link](https://github.com/sut-compiler/Materials/tree/main).
